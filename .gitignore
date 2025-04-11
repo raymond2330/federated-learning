@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+annotations/
+env/
+venv/
+env/
+venv8/
+venv9/
+annotations_trainval2017.zip

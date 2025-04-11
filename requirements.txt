@@ -1,0 +1,7 @@
+jupyter
+tensorflow-federated
+tensorflow-datasets 
+tensorflow 
+numpy 
+matplotlib 
+pycocotools
