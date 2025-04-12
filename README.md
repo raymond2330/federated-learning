@@ -8,10 +8,10 @@ IDK why but I can only use the libraries in linux environment
 sudo apt update && sudo apt upgrade -y
 ```
 
-### Install Python 3.10 using the deadsnakes PPA:
+### Install Python 3.11 using the deadsnakes PPA:
 ``` sh
 sudo add-apt-repository ppa:deadsnakes/ppa
-sudo apt install python3.9
+sudo apt install python3.11
 ```
 
 ### List All Installed Python Versions
@@ -20,15 +20,15 @@ To find all Python versions installed on your system
 ls /usr/bin/python*
 ```
 
-### Create a Virtual Environment Using Python 3.9
+### Create a Virtual Environment Using Python 3.11
 ``` sh
-python3.9 -m venv venv
+python3.11 -m venv venv
 ```
 
 ##### Note: If you encountered a problem with pip, use the command below, then try to create an environment again
 ``` sh
 sudo apt update
-sudo apt install --reinstall python3.9 python3.9-venv python3.9-distutils
+sudo apt install --reinstall python3.11 python3.11-venv python3.11-distutils
 ```
 
 ### Activate the Virtual Environment

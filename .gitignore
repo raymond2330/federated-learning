@@ -6,3 +6,5 @@ env/
 venv8/
 venv9/
 annotations_trainval2017.zip
+bazel_6.5.0-linux-x86_64.deb
+desktop.ini

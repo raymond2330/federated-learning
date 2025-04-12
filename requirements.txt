@@ -1,7 +1,6 @@
-jupyter
 tensorflow-federated
 tensorflow-datasets 
-tensorflow 
+tensorflow
 numpy 
 matplotlib 
 pycocotools
